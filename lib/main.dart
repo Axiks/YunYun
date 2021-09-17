@@ -15,6 +15,19 @@ class MyApp extends StatelessWidget {
       title: 'Yun yun app',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        textTheme: const TextTheme(
+            subtitle1: TextStyle(fontSize: 13.0),
+            headline3: TextStyle(
+              fontSize: 32.0,
+              fontWeight: FontWeight.bold,
+            )
+        ),
+        elevatedButtonTheme: ElevatedButtonThemeData(
+          style: ButtonStyle(
+            textStyle: MaterialStateProperty.all<TextStyle>(const TextStyle(color: Colors.white)),
+            backgroundColor: MaterialStateProperty.all<Color>(const Color(0xff4aa7b2)),
+          ),
+        ),
       ),
       home: RepositoryProvider(
         create: (context) => AuthRepository(),
