@@ -6,6 +6,8 @@ The program that finds an excerpt from the anime in the screenshot.
 
 - Dart
 - Flutter SDK
+- API
+- BLOC
 - TraceMOE API
 - MAL API
 
