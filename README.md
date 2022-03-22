@@ -73,4 +73,4 @@ Here you can watch a video clip and other information about the anime. You can a
 <br />
 
 ## Download APK
-[^1]: [Download Debug APK](https://file.io/2uCqjuOXtSUo) 76.9 MB
+[^1]: [Download Debug APK](https://t.me/nekospacedev/35) 76.9 MB
