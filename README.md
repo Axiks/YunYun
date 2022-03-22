@@ -9,6 +9,8 @@ The program that finds an excerpt from the anime in the screenshot.
 - TraceMOE API
 - MAL API
 
+Download[^1]
+
 ## Example of the program
 ### Search anime by URL
 
@@ -69,3 +71,6 @@ Here you can watch a video clip and other information about the anime. You can a
 ## Splash screen
 <img src="https://raw.githubusercontent.com/Axiks/YunYun/main/about/img/0.jpg" alt="drawing" width="200"/>
 <br />
+
+## Download APK
+[^1]: [Download Debug APK](https://file.io/2uCqjuOXtSUo) 76.9 MB
